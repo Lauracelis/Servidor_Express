@@ -42,12 +42,12 @@ gh repo clone Lauracelis/Servidor_Express
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-## Contribuyendo 🖇️
+## Contribute 🖇️
 
 Please read CONTRIBUTING.md for details of our code of conduct, and the process for submitting pull requests to us.
 
 
-## Versionado 📌
+## Versioned 📌
 
 ![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)
 
